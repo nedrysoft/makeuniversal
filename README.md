@@ -14,7 +14,7 @@ It uses rsync to copy the x86_64 folder to the destination and then finds all bi
 
 ## Example
 
-```./makeuniversal "./arm-mac-universal" "./qt5-mac-x86_64" "./qt5-mac-arm64"```
+```./makeuniversal "./qt5-mac-universal" "./qt5-mac-x86_64" "./qt5-mac-arm64"```
 
 ## License
 
