@@ -18,4 +18,4 @@ It uses rsync to copy the x86_64 folder to the destination and then finds all bi
 
 ## License
 
-makeuniversal is licensed under the GPLv3 License, if you would like to use the library and this is not compatible then you should contact us to discuss options.
+makeuniversal is licensed under the GPLv3 License.
