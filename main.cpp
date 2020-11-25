@@ -144,7 +144,7 @@ int main(int argc, char *argv[])
 
         QFileInfo fileInfo(it.filePath());
 
-        if (fileInfo.isDir())
+        if (fileInfo.isDir() || fileInfo.isSymLink())
             continue;
 
         QString x86_64File = it.filePath();
